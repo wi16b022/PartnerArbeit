@@ -10,6 +10,10 @@ namespace PartnerArbeit
     {
         static void Main(string[] args)
         {
+
+            //Hallo Natalie!
+
+
         }
     }
 }
